@@ -6,3 +6,4 @@
 @media(prefers-reduced-motion:reduce){*{transition:none!important}}
 .search-field{min-width:0}.search-field input{flex:1;width:0}.city-field{min-width:0}
 @media(max-width:380px){header{padding:0 14px}.brand{font-size:21px}.brand-mark{width:27px;height:27px;margin-right:6px}nav button{padding:9px 8px;gap:5px}nav button svg{display:none}.count{min-width:17px;font-size:10px}h1{font-size:38px}main,footer{margin-left:16px;margin-right:16px}}
+.search-help{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;margin:10px 0 0;font-size:11px;color:#657361}.search-help a{color:#315c47;min-height:44px;display:inline-flex;align-items:center;text-underline-offset:3px}.source-date{font-size:10px;color:#6c7965;margin:0 0 14px}.tone-7{background:#e3eee9;color:#426e5e}
